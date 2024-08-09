@@ -1,0 +1,13 @@
+{
+  "campaignId": 1,
+  "description": "asdasd",
+  "segment": "LIGEROS",
+  "channel": "SMS",
+  "source": "POS",
+  "status": "STARTED",
+  "amount": 20,
+  "interestRate": 1,
+  "terms": "asdasd",
+  "startDate": "2024-08-05T04:07:49.311Z",
+  "expirationDate": "2024-08-30T04:07:49.311Z"
+}
